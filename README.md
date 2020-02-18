@@ -18,30 +18,29 @@ Pause - P
 
 **point system**
 
-You get higher points, 
-The lesser the time you take,
+You get higher points     
+The lesser the time you take,     
 The harder the level is (level automatically increases as you progress)
 in the first level, getting past a candy(moving object) gives you 10 points
-and getting past a politician gives you 5 points.
-as you progress, you get more points for crossing each obstacle
+and getting past a politician gives you 5 points.     
+As you progress, you get more points for crossing each obstacle
 
 **starting screen**
 
-This scree shows the results of the previous game.
+This scree shows the results of the previous game.     
 If the game has been freshly opened, it shows zero points for each player,
-and says that it's a draw
+and says that it's a draw     
 
 **swapping between players**
 
-Whenever a player loses a life, or crosses a level, the players swap, This 
+Whenever a player loses a life, or crosses a level, the players swap, this
 is better than another way, in which players switch only when the first player 
-loses all his lives,as in this way, everyone stays stuck to the game(unless 
-they die :| )
+loses all his lives,as in this way, everyone stays stuck to the game      
+(unless they die :| )
 
 **How to run** 
 
-To run, clone this on your local machine,
-go into the folder trobama-game on terminal
-go into the folder thegame on terminal
-run python game.py
-make sure that you have the module pygame
+To run, clone this on your local machine,    
+Go into the folder thegame on terminal     
+Run python game.py    
+Make sure that you have the module pygame!!!          
