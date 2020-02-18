@@ -68,7 +68,8 @@ def initialize_var():
     player_no =0
     change_in_x=0
     change_in_y=0
-    lives = [3,3]
+    lives[0] = 3
+    lives[1] = 3
     score= [0,0]
     crash = False
     level = [0,0]
