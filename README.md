@@ -41,4 +41,7 @@ they die :| )
 **How to run** 
 
 To run, clone this on your local machine,
-go into the folder 
+go into the folder trobama-game on terminal
+go into the folder thegame on terminal
+run python game.py
+make sure that you have the module pygame
