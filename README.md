@@ -10,13 +10,13 @@ Avoid them!! Gain points, and have a great time!!
 This is a two player game.
 
 
-#Controls#
+**Controls**
 
 player one - arrow keys
 player two - wasd keys
 Pause - P
 
-#point system#
+**point system**
 
 You get higher points, 
 The lesser the time you take,
