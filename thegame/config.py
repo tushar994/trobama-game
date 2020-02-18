@@ -70,9 +70,11 @@ def initialize_var():
     change_in_y=0
     lives[0] = 3
     lives[1] = 3
-    score= [0,0]
+    score[0]=0
+    score[1]=0
     crash = False
-    level = [0,0]
+    level[0]=0
+    level[1]=0
     run = True
 
 
@@ -96,7 +98,7 @@ player_img=pygame.image.load(player_img)
 player_img=pygame.transform.scale(player_img,(player_dim,player_dim))
 #this is the speed of the players, cannot put two different speeds for two
 #players, yet
-step_size=10
+step_size=5
 
 #some text that is displayed
 #when player1 wins
